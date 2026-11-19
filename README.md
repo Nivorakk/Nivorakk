@@ -50,5 +50,6 @@ Trabajo con HTML, CSS y JavaScript, uso Git y GitHub en cada proyecto y me apoyo
 
 ¿Tienes un negocio y necesitas una web? Escríbeme y lo hablamos.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nivorak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivorak/)
 [![Instagram](https://img.shields.io/badge/Instagram-nivorak.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nivorak.ai/)
 [![X](https://img.shields.io/badge/X-@Nivorak-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Nivorak)
