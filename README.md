@@ -19,10 +19,10 @@ Trabajo con HTML, CSS y JavaScript, uso Git y GitHub en cada proyecto y me apoyo
       <p><a href="https://nivorakk.github.io/Cafeter-a_Web/"><b>Ver la web</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/Nivorakk/Cafeter-a_Web">Ver el código</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Nivorakk/Drones_web"><img src="img/altavia-drones.png" alt="Web de Altavía Drones"></a>
+      <a href="https://nivorakk.github.io/Drones_web/"><img src="img/altavia-drones.png" alt="Web de Altavía Drones"></a>
       <h3>Altavía Drones</h3>
       <p>Web corporativa de una empresa de drones con servicios y tienda. Calculadora de presupuesto, filtros de productos, comparador de drones y carrito de compra.</p>
-      <p><a href="https://github.com/Nivorakk/Drones_web"><b>Ver el proyecto</b></a></p>
+      <p><a href="https://nivorakk.github.io/Drones_web/"><b>Ver la web</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/Nivorakk/Drones_web">Ver el código</a></p>
     </td>
   </tr>
 </table>
