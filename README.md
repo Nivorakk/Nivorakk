@@ -12,22 +12,28 @@ Trabajo con HTML, CSS y JavaScript, uso Git y GitHub en cada proyecto y me apoyo
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://nivorakk.github.io/Cafeter-a_Web/"><img src="img/cafeteria-sobremesa.png" alt="Web de Cafetería Sobremesa"></a>
       <h3>Cafetería Sobremesa</h3>
       <p>Cafetería de estilo años 80 en San Juan de Alicante. Carta interactiva que calcula el precio del desayuno, cartel de abierto o cerrado en directo y reserva de plaza para charlas de salud.</p>
       <p><a href="https://nivorakk.github.io/Cafeter-a_Web/"><b>Ver la web</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/Nivorakk/Cafeter-a_Web">Ver el código</a></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://nivorakk.github.io/Drones_web/"><img src="img/altavia-drones.png" alt="Web de Altavía Drones"></a>
       <h3>Altavía Drones</h3>
       <p>Web corporativa de una empresa de drones con servicios y tienda. Calculadora de presupuesto, filtros de productos, comparador de drones y carrito de compra.</p>
       <p><a href="https://nivorakk.github.io/Drones_web/"><b>Ver la web</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/Nivorakk/Drones_web">Ver el código</a></p>
     </td>
+    <td width="33%" valign="top">
+      <a href="https://nivorakk.github.io/Manicura_WEB/"><img src="img/lumina-nails.png" alt="Web de Lúmina Nails"></a>
+      <h3>Lúmina Nails</h3>
+      <p>Atelier de uñas de lujo en el Barrio de Salamanca. Probador virtual de esmaltes, galería con filtros, test de estilo y reserva online con calendario.</p>
+      <p><a href="https://nivorakk.github.io/Manicura_WEB/"><b>Ver la web</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/Nivorakk/Manicura_WEB">Ver el código</a></p>
+    </td>
   </tr>
 </table>
 
-<sub>Los dos proyectos son demostraciones con datos ficticios.</sub>
+<sub>Los tres proyectos son demostraciones con datos ficticios.</sub>
 
 ## Qué puedo hacer por tu negocio
 
